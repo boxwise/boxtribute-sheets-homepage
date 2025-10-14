@@ -1,6 +1,8 @@
-![logo](./boxtribute-logo.png)
+---
+title: "Boxtribute Sheets"
+---
 
-# Boxtribute Sheets
+![logo](./boxtribute-logo.png)
 
 Need support? [Contact us!](mailto:help@boxtribute.org)
 
