@@ -1,7 +1,3 @@
----
-title: "Boxtribute Sheets"
----
-
 ![logo](./boxtribute-logo.png)
 
 Import structured data from Google Sheets directly into Boxtribute.
