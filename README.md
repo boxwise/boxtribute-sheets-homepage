@@ -8,4 +8,4 @@ Need support? [Contact us!](mailto:help@boxtribute.org)
 
 [Privacy policy](./privacy-policy.md)
 
-[Application Terms of Service](https://docs.google.com/document/d/e/2PACX-1vR914bajEJk_LMiW816Il8RmOiGm5ur8traGmRvz10NULXaBADOyyQgLAy6BnxmEOydxs5mXHU-K-49/pub)
+[Application Terms of Service](./terms-of-service.md)
