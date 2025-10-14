@@ -1,12 +1,12 @@
 # Privacy Policy – Boxtribute Sheets
 
-*Effective Date*: 1st of August 2025
+**Effective Date**: 1st of August 2025
 
-This Privacy Policy explains how the Boxtribute Sheets (the “Add-on”) processes user data.
+This Privacy Policy explains how the _Boxtribute Sheets_ (the “Add-on”) processes user data.
 
 ## 1. Who We Are
 
-The Add-on is operated by Stichting Boxwise (“Boxtribute,” “we,” “us”), a nonprofit foundation based in the Netherlands with ANBI status.
+The Add-on is operated by **Stichting Boxwise** (“Boxtribute,” “we,” “us”), a nonprofit foundation based in the Netherlands with ANBI status.
 
 ## 2. Scope
 
@@ -14,9 +14,9 @@ This Policy applies only to the Add-on. It complements Boxtribute’s service ag
 
 ## 3. Data Processed by the Add-on
 
-    The Add-on accesses only the Google Sheets you explicitly select.
-    The Add-on transfers only selected data to your Boxtribute account.
-    The Add-on does not access Gmail, Drive, or other Google data.
+- The Add-on accesses only the Google Sheets you explicitly select.
+- The Add-on transfers only selected data to your Boxtribute account.
+- The Add-on does **not** access Gmail, Drive, or other Google data.
 
 ## 4. Purpose of Processing
 
@@ -24,18 +24,18 @@ The sole purpose of the Add-on is to allow you to import structured data into yo
 
 ## 5. Data Storage
 
-    The Add-on does not permanently store data outside Boxtribute systems.
-    Data may be temporarily processed in memory during transfer but is deleted immediately after.
-    All persistent storage occurs within your Boxtribute environment, subject to your existing service agreement and associated Data Processing Agreements.
+- The Add-on does not permanently store data outside Boxtribute systems.
+- Data may be temporarily processed in memory during transfer but is deleted immediately after.
+- All persistent storage occurs within your Boxtribute environment, subject to your existing service agreement and associated Data Processing Agreements.
 
 ## 6. Usage Logging
 
 For service monitoring, Boxtribute may log metadata such as:
 
-    organisation ID and user ID;
-    timestamp of import;
-    number of rows processed;
-    success/failure status.
+- organisation ID and user ID;
+- timestamp of import;
+- number of rows processed;
+- success/failure status.
 
 These logs are used only to maintain and improve the service.
 
@@ -45,8 +45,8 @@ We use secure APIs and encrypted connections (HTTPS/TLS). Boxtribute operates un
 
 ## 8. User Control
 
-    You can uninstall the Add-on at any time, which stops all data access.
-    You can also revoke the Add-on’s permissions in your Google Account settings.
+- You can uninstall the Add-on at any time, which stops all data access.
+- You can also revoke the Add-on’s permissions in your Google Account settings.
 
 ## 9. Legal Basis (GDPR)
 
@@ -60,4 +60,4 @@ No data from the Add-on is shared with third parties, except as required by law.
 
 We may update this Policy from time to time. Updates will be posted publicly.
 
-Contact: [gdpr@boxtribute.org](mailto:gdpr@boxtribute.org)
+**Contact**: [gdpr@boxtribute.org](mailto:gdpr@boxtribute.org)
