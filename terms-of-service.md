@@ -6,7 +6,7 @@ These Terms of Service (“Terms”) govern your use of the _Boxtribute Sheets_ 
 
 ## 1. About the Add-on
 
-The Add-on is published by **Stichting Boxwise** (“Boxtribute,” “we,” “us”), a nonprofit foundation registered in the Netherlands (ANBI status). It enables Boxtribute users to import data from Google Sheets into their Boxtribute account.
+The Add-on is published by **Stichting Boxwise** (“Boxtribute,” “we,” “us”), a nonprofit foundation registered in the Netherlands (ANBI status). It enables Boxtribute users to import data from Google Sheets™ into their Boxtribute account.
 
 The Add-on is only available to organisations and users who have an active Boxtribute service agreement or other binding arrangement with us. These Terms complement, but do not replace, your service agreement.
 
@@ -26,7 +26,7 @@ You may use the Add-on only if you:
 
 ## 4. Data Protection & Privacy
 
-The Add-on transfers data you select from Google Sheets into your Boxtribute account. Boxtribute does not use this data for any other purpose. Please refer to our [Privacy Policy](./privacy-policy.md) for details.
+The Add-on transfers data you select from Google Sheets™ into your Boxtribute account. Boxtribute does not use this data for any other purpose. Please refer to our [Privacy Policy](./privacy-policy.md) for details.
 
 ## 5. Intellectual Property
 

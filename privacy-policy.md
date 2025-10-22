@@ -14,9 +14,9 @@ This Policy applies only to the Add-on. It complements Boxtribute’s service ag
 
 ## 3. Data Processed by the Add-on
 
-- The Add-on accesses only the Google Sheets you explicitly select.
+- The Add-on accesses only the Google Sheets™ you explicitly select.
 - The Add-on transfers only selected data to your Boxtribute account.
-- The Add-on does **not** access Gmail, Drive, or other Google data.
+- The Add-on does **not** access Gmail™, Drive™, or other Google data.
 
 ## 4. Purpose of Processing
 
