@@ -10,7 +10,9 @@ The add-on follows Boxtribute’s nonprofit mission to empower local organizatio
 
 To use this add-on, you must have an active Boxtribute account.
 
-Need support? [Contact us!](mailto:help@boxtribute.org)
+## Support
+
+Need help or want to report an issue? [How to reach us.](./support.md)
 
 ## App domain
 
