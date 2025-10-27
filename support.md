@@ -1,5 +1,7 @@
 # Support
 
+Check out the [trouble-shooting](./troubleshoot.md) page.
+
 **Need help or want to report an issue?**
 
 Do you have questions about how to use the add-on?

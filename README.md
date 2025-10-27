@@ -14,6 +14,8 @@ To use this add-on, you must have an active Boxtribute account.
 
 Need help or want to report an issue? [How to reach us.](./support.md)
 
+Also check out the [trouble-shooting](./troubleshoot.md) page.
+
 ## App domain
 
 [Privacy policy](./privacy-policy.md)
