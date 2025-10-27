@@ -18,10 +18,21 @@ Select one of the following:
 
 <details>
   <summary>Why This Happens (click for technical explanation):</summary>
-
-1.  **Modal is an `iframe`**: The `showModalDialog` command creates a modal window, which is essentially an `iframe` that loads your HTML.
-2.  **Server vs. Client**: Your server-side code (`.gs`) runs `showModalDialog`, which successfully creates the modal and sets its **title** ("My Dialog"). This part works fine because it's running as the user who ran the add-on.
-3.  **Client-Side Loading**: The browser then tries to load the *content* of that `iframe` (your HTML file). To do this, it has to fetch the HTML from Google's servers (`n-....googleusercontent.com`).
-4.  **Multi-Account Conflict**: If you are logged into multiple Google accounts (e.g., `personal@gmail.com` and `work@company.com`), your browser often defaults to your *primary* account (the first one you logged into) for new authentication requests.
-5.  **The Error**: The browser tries to fetch the HTML using your `personal@gmail.com` account, but the add-on is running under your `work@company.com` account. Google's servers see the request from the wrong user, deny access, and serve the "You need access" error page inside the `iframe`.
+  <ul>
+    <li>
+        <strong>Modal is an <code>iframe</code></strong>: The <code>showModalDialog</code> command creates a modal window, which is essentially an <code>iframe</code> that loads your HTML.
+    </li>
+    <li>
+        <strong>Server vs. Client</strong>: Your server-side code (<code>.gs</code>) runs <code>showModalDialog</code>, which successfully creates the modal and sets its <strong>title</strong> ("My Dialog"). This part works fine because it's running as the user who ran the add-on.
+    </li>
+    <li>
+        <strong>Client-Side Loading</strong>: The browser then tries to load the <em>content</em> of that <code>iframe</code> (your HTML file). To do this, it has to fetch the HTML from Google's servers (<code>n-....googleusercontent.com</code>).
+    </li>
+    <li>
+        <strong>Multi-Account Conflict</strong>: If you are logged into multiple Google accounts (e.g., <code>personal@gmail.com</code> and <code>work@company.com</code>), your browser often defaults to your <em>primary</em> account (the first one you logged into) for new authentication requests.
+    </li>
+    <li>
+        <strong>The Error</strong>: The browser tries to fetch the HTML using your <code>personal@gmail.com</code> account, but the add-on is running under your <code>work@company.com</code> account. Google's servers see the request from the wrong user, deny access, and serve the "You need access" error page inside the <code>iframe</code>.
+    </li>
+  </ul>
 </details>
