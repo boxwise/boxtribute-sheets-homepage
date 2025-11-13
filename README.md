@@ -16,6 +16,8 @@ Need help or want to report an issue? [How to reach us.](./support.md)
 
 Also check out the [trouble-shooting](./troubleshoot.md) page.
 
+For recent updates of the add-on, see the [changelog](./changelog.md).
+
 ## App domain
 
 [Privacy policy](./privacy-policy.md)
