@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.2.0
+
+**Released:** Jan 12, 2026
+
+### Added
+- Added functionality to import stock from a dedicated sheet.
+
 ## v1.1.6
 
 **Released:** Dec 1, 2025
