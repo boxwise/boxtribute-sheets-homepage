@@ -10,6 +10,10 @@ The add-on follows Boxtribute’s nonprofit mission to empower local organizatio
 
 To use this add-on, you must have an active Boxtribute account.
 
+## Download
+
+The add-on is published to the [Google Marketplace™](https://workspace.google.com/marketplace/app/boxtribute_sheets/1039060646795).
+
 ## Support
 
 Need help or want to report an issue? [How to reach us.](./support.md)
