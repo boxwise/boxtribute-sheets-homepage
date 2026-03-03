@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.2.1
+
+**Released:** Mar 03, 2026
+
+### Changed
+- Handle authorization and validation errors when importing stock.
+- Improve error handling when loading input options.
+
 ## v1.2.0
 
 **Released:** Jan 12, 2026
