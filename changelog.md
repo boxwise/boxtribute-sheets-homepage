@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.0.1
+
+**Released:** Aug 13, 2026
+
+### Added
+
+- Show version info on login card.
+- Show update info if a new version is available.
+
 ## v2.0.0
 
 **Released:** May 11, 2026
